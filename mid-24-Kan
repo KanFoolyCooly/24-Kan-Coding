@@ -1,1 +1,8 @@
-
+number_str = input("ใส่เลขครับหนู:  ")
+number = float(number_str)
+if number > 0:
+  print("Positive")
+elif number < 0:
+    print("Negative")
+else:
+    print("Zero")

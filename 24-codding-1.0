@@ -1,0 +1,20 @@
+#1.00000000000
+
+unit = float(input("กรอกจำนวนหน่วยไฟฟ้าที่ใช้: "))
+
+price_per_unit = 4   # ค่าไฟต่อหน่วย
+
+electric_cost = unit * price_per_unit
+
+#ค่าบริการ: ทุก ๆ 500 บาท คิด 50 บาท
+service_fee = (electric_cost // 500) * 50
+
+# เศษบวกเพิ่ม50บาท
+if electric_cost % 500 != 0:
+    service_fee += 50
+
+total_cost = electric_cost + service_fee
+
+print("ค่าไฟฟ้า =", electric_cost, "บาท")
+print("ค่าบริการ =", service_fee, "บาท")
+print("รวมค่าไฟทั้งหมด =", total_cost, "บาท")

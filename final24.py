@@ -25,3 +25,4 @@ while True:
     else:
         print("❌ ว้ายแค่นี้ยังผิด ลองใหม่ดูนะ")
         print('\n')
+

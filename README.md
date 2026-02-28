@@ -16,7 +16,7 @@ Library/framework คือ python idle shell
 Design Tool คือ Canva
 
 4.ตัวอย่างการใช้งาน
--
+
 
 5.วิธีการใช้าน
 -ติดตั้ง Python ให้เรียบร้อย

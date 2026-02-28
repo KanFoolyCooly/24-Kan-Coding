@@ -16,7 +16,7 @@ Library/framework คือ python idle shell
 Design Tool คือ Canva
 
 4.ตัวอย่างการใช้งาน
-<img width="1920" height="1080" alt="Screenshot (589)" src="https://github.com/user-attachments/assets/f3e40aa7-686c-41d4-82dc-be2d66f25c59" />
+<img width="1920" height="1080" alt="Screenshot (608)" src="https://github.com/user-attachments/assets/b52e47c3-c63e-4b47-8b14-55d7d11a0118" />
 
 
 5.วิธีการใช้าน
